@@ -17,9 +17,8 @@ export default function Blog() {
         porttitor. Vestibulum molestie hendrerit massa non consequat. Vestibulum
         vitae lorem tortor. In elementum ultricies tempus. Interdum et malesuada
         fames ac ante ipsum primis in faucibus.
-
       </p>
-     <br/>
+     <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <a href={Download} download>Download Resume</a>
     </div>
   );
